@@ -19,5 +19,6 @@
 
 /* Filters header */
 #include "filter/average.hpp"
+#include "filter/lowpass.hpp"
 
 #endif // MX_ALGO_HPP
