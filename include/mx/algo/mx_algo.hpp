@@ -17,4 +17,7 @@
 /* Controllers header */
 #include "controller/pid.hpp"
 
+/* Filters header */
+#include "filter/average.hpp"
+
 #endif // MX_ALGO_HPP
